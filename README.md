@@ -1,4 +1,4 @@
-# Timetracker_Cube
+# Timetracker Cube
 
 ## Features
 - WiFi Anbindung zum Erhalt der Uhrzeit aus NTP Server
